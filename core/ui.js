@@ -198,7 +198,7 @@ function addIconIfNeeded()
         isUIClassesWorking = false;
         Swal.fire({
             title: "WAIncognito is temporarily broken",
-            html: 'It seems that due to a recent WhatsApp Web update some graphical elements of the extnesion will not appear. <br><Br> Please be patient for a few days until a newer compatible version will be released.',
+            html: 'It seems that due to a recent WhatsApp Web update some graphical elements of the extension will not appear. <br><Br> Please be patient for a few days until a newer compatible version will be released.',
             icon: "warning",
             width: 600,
             confirmButtonColor: "#DD6B55",
